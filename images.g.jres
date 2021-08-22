@@ -4,6 +4,26 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Fondo-nivel1"
     },
+    "image2": {
+        "data": "hwQQABAAAACqqqqqqqqqqqqqqqqqqqqqqhERoaoaqqqqERGhqhqhqqrx/6GqGhGqqvH/oaoaEaGq8f+hqhoRoaqqqqqqGhGhqqqqqqoaEaGqERGhqhoRoaoREaGqGhGhqvH/oaoaEaqq8f+hqhqhqqrx/6GqGqqqqqqqqqqqqqqqqqqqqqqqqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "JugadorDrch"
+    },
+    "image3": {
+        "data": "hwQQABAAAACqqqqqqqqqqqqqqqqqqqqqqvH/oaoaqqqq8f+hqhqhqqrx/6GqGhGqqhERoaoaEaGqERGhqhoRoaqqqqqqGhGhqqqqqqoaEaGq8f+hqhoRoarx/6GqGhGhqvH/oaoaEaqqERGhqhqhqqoREaGqGqqqqqqqqqqqqqqqqqqqqqqqqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "JugadorIzq"
+    },
+    "image4": {
+        "data": "hwQQABAAAACqqqqqqqqqqqqqqqqqqqqqqhERoaoaqqqq/x+hqhqhqqr/H6GqGhGqqv8foaoaEaGqERGhqhoRoaqqqqqqGhGhqqqqqqoaEaGqERGhqhoRoar/H6GqGhGhqv8foaoaEaqq/x+hqhqhqqoREaGqGqqqqqqqqqqqqqqqqqqqqqqqqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "JugadorUp"
+    },
+    "image5": {
+        "data": "hwQQABAAAACqqqqqqqqqqqqqqqqqqqqqqhERoaoaqqqqEf+vqhqhqqoR/6+qGhGqqhH/r6oaEaGqERGhqhoRoaqqqqqqGhGhqqqqqqoaEaGqERGhqhoRoaoR/6+qGhGhqhH/r6oaEaqqEf+vqhqhqqoREaGqGqqqqqqqqqqqqqqqqqqqqqqqqg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "JugadorDown"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

@@ -126,6 +126,82 @@ ddd3bbbbbbdddddddddddd3bbbbbbbbbddddddddddd3bbbbbbdddddddddddd3bbbbbbbbbdddddddd
 4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
 4444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444
 `;
+            case "image2":
+            case "JugadorDrch":return img`
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a 1 1 1 1 1 a a 1 1 1 1 1 a a 
+a a 1 1 f f f a a 1 1 f f f a a 
+a a 1 1 f f f a a 1 1 f f f a a 
+a a 1 1 f f f a a 1 1 f f f a a 
+a a 1 1 1 1 1 a a 1 1 1 1 1 a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a 1 1 1 1 1 1 1 1 1 1 1 1 a a 
+a a a 1 1 1 1 1 1 1 1 1 1 a a a 
+a a a a 1 1 1 1 1 1 1 1 a a a a 
+a a a a a 1 1 1 1 1 1 a a a a a 
+a a a a a a a a a a a a a a a a 
+`;
+            case "image3":
+            case "JugadorIzq":return img`
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a 1 1 1 1 1 a a 1 1 1 1 1 a a 
+a a f f f 1 1 a a f f f 1 1 a a 
+a a f f f 1 1 a a f f f 1 1 a a 
+a a f f f 1 1 a a f f f 1 1 a a 
+a a 1 1 1 1 1 a a 1 1 1 1 1 a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a 1 1 1 1 1 1 1 1 1 1 1 1 a a 
+a a a 1 1 1 1 1 1 1 1 1 1 a a a 
+a a a a 1 1 1 1 1 1 1 1 a a a a 
+a a a a a 1 1 1 1 1 1 a a a a a 
+a a a a a a a a a a a a a a a a 
+`;
+            case "image4":
+            case "JugadorUp":return img`
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a 1 f f f 1 a a 1 f f f 1 a a 
+a a 1 f f f 1 a a 1 f f f 1 a a 
+a a 1 f f f 1 a a 1 f f f 1 a a 
+a a 1 1 1 1 1 a a 1 1 1 1 1 a a 
+a a 1 1 1 1 1 a a 1 1 1 1 1 a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a 1 1 1 1 1 1 1 1 1 1 1 1 a a 
+a a a 1 1 1 1 1 1 1 1 1 1 a a a 
+a a a a 1 1 1 1 1 1 1 1 a a a a 
+a a a a a 1 1 1 1 1 1 a a a a a 
+a a a a a a a a a a a a a a a a 
+`;
+            case "image5":
+            case "JugadorDown":return img`
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a 1 1 1 1 1 a a 1 1 1 1 1 a a 
+a a 1 1 1 1 1 a a 1 1 1 1 1 a a 
+a a 1 f f f 1 a a 1 f f f 1 a a 
+a a 1 f f f 1 a a 1 f f f 1 a a 
+a a 1 f f f 1 a a 1 f f f 1 a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a a a a a a a a a a a a a a a 
+a a 1 1 1 1 1 1 1 1 1 1 1 1 a a 
+a a a 1 1 1 1 1 1 1 1 1 1 a a a 
+a a a a 1 1 1 1 1 1 1 1 a a a a 
+a a a a a 1 1 1 1 1 1 a a a a a 
+a a a a a a a a a a a a a a a a 
+`;
         }
         return null;
     })
