@@ -1,5 +1,6 @@
 {
     "name": "Juego plataformas scroll lateral",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
