@@ -202,6 +202,25 @@ a a a a 1 1 1 1 1 1 1 1 a a a a
 a a a a a 1 1 1 1 1 1 a a a a a 
 a a a a a a a a a a a a a a a a 
 `;
+            case "image6":
+            case "Enemigo":return img`
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d 1 1 1 1 1 d d 1 1 1 1 1 d d 
+d d 1 1 1 1 1 d d 1 1 1 1 1 d d 
+d d f f f 1 1 d d f f f 1 1 d d 
+d d f f f 1 1 d d f f f 1 1 d d 
+d d f f f 1 1 d d f f f 1 1 d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+d 1 1 1 1 1 1 1 1 1 1 1 1 1 1 d 
+d d d d 1 d d 1 d d 1 d d 1 d d 
+d d d 1 d d 1 d d 1 d d 1 d d d 
+d d 1 d d 1 d d 1 d d 1 d d d d 
+d d d d d d d d d d d d d d d d 
+d d d d d d d d d d d d d d d d 
+`;
         }
         return null;
     })

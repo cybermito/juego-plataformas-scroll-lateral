@@ -24,6 +24,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "JugadorDown"
     },
+    "image6": {
+        "data": "hwQQABAAAADd3d3d3d3d3d3d3d3d0d3d3RH/393RHd3dEf/f3dHR3d0R/9/dEd3d3RER0d3RHd3dERHR3dHR3d3d3d3dEd3d3d3d3d3RHd3dEf/f3dHR3d0R/9/dEd3d3RH/393RHd3dERHR3dHR3d0REdHdEd3d3d3d3d3R3d3d3d3d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Enemigo"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
